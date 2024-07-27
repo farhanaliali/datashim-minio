@@ -32,7 +32,7 @@ To use Datashim, we need to create a Dataset: we can do so by editing and runnin
             type: COS
             accessKeyID:  test@1234
             secretAccessKey: test@1234
-            endpoint: https://minio.rockvilletech.com:9000
+            endpoint: https://minio.demo.com
             bucket: demo
             region: us-east-1 
         EOF
